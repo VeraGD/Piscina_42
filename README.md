@@ -1,5 +1,5 @@
 # Pisicna_42
-Pisicina 42
+Ejercicios de la Pisicina de 42
 
 ## Shell 00
 00  ✅

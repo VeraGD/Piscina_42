@@ -1,4 +1,4 @@
-# Pisicna_42
+# Piscina_42
 Ejercicios de la Pisicina de 42
 
 ## Shell 00

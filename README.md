@@ -76,7 +76,3 @@ Ejercicios de la Pisicina de 42
 ## C 07
 00  ❓
 01  ❓
-## Rush 00
-Sin control de errores
-## Rush 02
-Solo funciona hasta el 9.999

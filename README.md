@@ -10,7 +10,7 @@ Ejercicios de la Pisicina de 42
 05  ✅
 06  ✅
 07  ✅
-08  ✖️
+08  ❌
 09  ✅
 ## Shell 01
 00  ✅
@@ -45,15 +45,15 @@ Ejercicios de la Pisicina de 42
 06  ✅
 07  ✅
 08  ✅
-09  ✖️
-10  ✖️
+09  ❌
+10  ❌
 ## C 03
 00  ✅
 01  ✅
 02  ✅
 03  ✅
-04  ✖️
-05  ✖️
+04  ❌
+05  ❌
 ## C 04
 00  ✅
 01  ✅
@@ -76,3 +76,7 @@ Ejercicios de la Pisicina de 42
 ## C 07
 00  ❓
 01  ❓
+## Rush 00
+Sin control de errores
+## Rush 02
+Solo funciona hasta el 9.999
